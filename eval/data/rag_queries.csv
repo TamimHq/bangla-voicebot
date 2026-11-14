@@ -1,0 +1,21 @@
+query,expected
+আমার ব্যালেন্স কত আছে,ব্যালেন্স চেক (balance check)
+balance কিভাবে দেখব,ব্যালেন্স চেক (balance check)
+সবচেয়ে সস্তা ইন্টারনেট প্যাক কোনটা,ইন্টারনেট প্যাকেজ: ছোট প্যাক (data pack small)
+এক জিবি ডাটা কত টাকা,ইন্টারনেট প্যাকেজ: ছোট প্যাক (data pack small)
+এক মাসের জন্য দশ জিবি প্যাকেজ চাই,ইন্টারনেট প্যাকেজ: মাসিক প্যাক (monthly data pack)
+monthly data pack এর দাম কত,ইন্টারনেট প্যাকেজ: মাসিক প্যাক (monthly data pack)
+কথা বলার মিনিট কিনতে চাই,মিনিট প্যাক (voice minute pack)
+রিচার্জ করেছি কিন্তু টাকা আসেনি,রিচার্জ (recharge)
+রিচাজ কত টাকা থেকে করা যায়,রিচার্জ (recharge)
+আমার টাকা শেষ ধার নিতে চাই,ইমার্জেন্সি ব্যালেন্স (emergency balance / loan)
+emergency balance কিভাবে নেব,ইমার্জেন্সি ব্যালেন্স (emergency balance / loan)
+আমার সিম হারিয়ে গেছে,সিম হারানো বা বন্ধ করা (lost SIM / SIM block)
+ফোন চুরি হয়েছে সিমটা বন্ধ করব কিভাবে,সিম হারানো বা বন্ধ করা (lost SIM / SIM block)
+ই সিম নিতে কি লাগবে,"সিম রিপ্লেসমেন্ট ও ই-সিম (SIM replacement, eSIM)"
+নেট খুব স্লো চলছে,"নেটওয়ার্ক সমস্যা (network problem, slow internet)"
+ইন্টারনেট কাজ করছে না,"নেটওয়ার্ক সমস্যা (network problem, slow internet)"
+অফারের এসএমএস বন্ধ করব কিভাবে,অফার বন্ধ করা (stop promotional SMS / auto-renew)
+auto renew off করতে চাই,অফার বন্ধ করা (stop promotional SMS / auto-renew)
+মানুষের সাথে কথা বলতে চাই,মানুষ এজেন্টের সাথে কথা (talk to human agent)
+customer care agent দরকার,মানুষ এজেন্টের সাথে কথা (talk to human agent)

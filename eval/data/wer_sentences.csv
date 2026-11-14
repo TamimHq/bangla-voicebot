@@ -1,0 +1,31 @@
+id,category,reference
+bn01,bangla,আমার ব্যালেন্স কত টাকা আছে
+bn02,bangla,সবচেয়ে সস্তা ইন্টারনেট প্যাকেজ কোনটা
+bn03,bangla,এক মাসের জন্য ভালো কোনো প্যাকেজ আছে
+bn04,bangla,আমি কথা বলার মিনিট কিনতে চাই
+bn05,bangla,রিচার্জ করেছি কিন্তু টাকা এখনো আসেনি
+bn06,bangla,আমার টাকা শেষ ইমার্জেন্সি ব্যালেন্স নিতে চাই
+bn07,bangla,আমার সিম কার্ড হারিয়ে গেছে এখন কী করব
+bn08,bangla,ফোন চুরি হয়েছে সিমটা বন্ধ করে দিন
+bn09,bangla,নতুন সিম তুলতে কী কী কাগজ লাগবে
+bn10,bangla,আমার এলাকায় নেটওয়ার্ক একদম পাচ্ছি না
+bn11,bangla,ইন্টারনেট এত ধীরে চলছে কেন
+bn12,bangla,অফারের মেসেজ আসা বন্ধ করব কীভাবে
+bn13,bangla,আমি একজন মানুষের সাথে কথা বলতে চাই
+bn14,bangla,সর্বনিম্ন কত টাকা রিচার্জ করা যায়
+bn15,bangla,ইমার্জেন্সি ব্যালেন্স নিলে পরে কত টাকা কাটবে
+mx01,code-mixed,আমার balance চেক করব কীভাবে
+mx02,code-mixed,সবচেয়ে cheap data pack কোনটা
+mx03,code-mixed,monthly internet package এর দাম কত
+mx04,code-mixed,আমি একটা minute pack কিনতে চাই
+mx05,code-mixed,recharge করেছি কিন্তু balance আসেনি
+mx06,code-mixed,আমার SIM কার্ড block করে দিন
+mx07,code-mixed,eSIM নিতে কী কী লাগবে
+mx08,code-mixed,net speed এত slow কেন
+mx09,code-mixed,auto renew off করতে চাই
+mx10,code-mixed,customer care agent এর সাথে কথা বলব
+en01,english,what is my current balance
+en02,english,which is the cheapest data pack
+en03,english,how can I block my lost SIM
+en04,english,I want to talk to a customer care agent
+en05,english,how do I stop promotional messages

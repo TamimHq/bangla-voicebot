@@ -1,0 +1,19 @@
+# Install CPU-only PyTorch FIRST (much smaller than the CUDA build):
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+fastapi>=0.110
+uvicorn[standard]>=0.29
+numpy>=1.26
+scipy>=1.11
+soundfile>=0.12
+python-dotenv>=1.0
+silero-vad>=5.1
+google-genai>=1.0
+edge-tts>=6.1
+jiwer>=3.0
+pytest>=8.0
+httpx>=0.27
+
+# Optional backends:
+# groq>=0.9            (ASR_BACKEND=groq)
+# faster-whisper>=1.0
+# transformers>=4.40

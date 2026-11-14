@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+logs/
+eval/results/*
+# publish only the WER summaries (no audio, no per-clip voice data)
+!eval/results/*_rescored_summary.md
+eval/data/*.wav
+eval/data/*.mp3
+.pytest_cache/
+# your own voice recordings stay private; publish only the WER numbers
+eval/data/my_clips/
+eval/data/manifest.csv
+cache/
+.vscode/
